@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/history.png</file>
+    <file>icon/person.png</file>
+    <file>icon/reports.png</file>
+    <file>icon/settings.png</file>
+    <file>icon/uca-url.svg</file>
+    <file>icon/add1.jpg</file>
+    <file>icon/d1.png</file>
+    <file>icon/dexter.jpg</file>
+    <file>icon/edit.png</file>
+    <file>icon/g2.png</file>
+    <file>icon/i1.png</file>
+    <file>icon/logo.png</file>
+    <file>icon/r3.png</file>
+    <file>icon/s1.png</file>
+    <file>icon/seting1.png</file>
+    <file>icon/task.py</file>
+  </qresource>
+</RCC>
