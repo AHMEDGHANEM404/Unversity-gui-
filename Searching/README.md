@@ -4,11 +4,11 @@
 --------------------------------------------------------------------------------------------
 * like this:
   -if not found->
-![not found](images/notfound.png)
+![not found](images/notfound.png?raw=true)
     if there are results:
-![searching result](images/found.png)
+![searching result](images/found.png?raw=true)
 and can edit like this:
-![Seaching](images/edit.png)
+![Seaching](images/edit.png?raw=true)
 ---------------------------------------------------------------------------------------------------
 
 
