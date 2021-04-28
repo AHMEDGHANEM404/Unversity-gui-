@@ -4,11 +4,11 @@
 --------------------------------------------------------------------------------------------
 * like this:
   -if not found->
-![GitHub Logo](/images/notfound.png)
+![GitHub Logo](images/notfound.png)
     if there are results:
-![GitHub Logo](/images/found.png)
+![GitHub Logo](images/found.png)
 and can edit like this:
-![GitHub Logo](/images/edit.png)
+![GitHub Logo](images/edit.png)
 ---------------------------------------------------------------------------------------------------
 
 
