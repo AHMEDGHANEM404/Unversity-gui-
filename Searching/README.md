@@ -4,11 +4,11 @@
 --------------------------------------------------------------------------------------------
 * like this:
   -if not found->
-![not found](images/notfound.png?raw=true)
+![not found](https://github.com/AHMEDGHANEM404/Unversity-gui-/blob/main/Searching/images/notfound.png?raw=true)
     if there are results:
-![searching result](images/found.png?raw=true)
+![searching result](https://github.com/AHMEDGHANEM404/Unversity-gui-/blob/main/Searching/images/found.png?raw=true)
 and can edit like this:
-![Seaching](images/edit.png?raw=true)
+![Seaching](https://github.com/AHMEDGHANEM404/Unversity-gui-/blob/main/Searching/images/edit.png?raw=true)
 ---------------------------------------------------------------------------------------------------
 
 
