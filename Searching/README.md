@@ -8,7 +8,8 @@
     if there are results:
 ![searching result](https://github.com/AHMEDGHANEM404/Unversity-gui-/blob/main/Searching/images/found.png?raw=true)
 and can edit like this:
-![Seaching](https://github.com/AHMEDGHANEM404/Unversity-gui-/blob/main/Searching/images/edit.png?raw=true)
+![Screenshot (93)](https://user-images.githubusercontent.com/70071284/116810972-003da600-ab47-11eb-9116-b331e05f6275.png)
+
 ---------------------------------------------------------------------------------------------------
 
 
